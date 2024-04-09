@@ -1,0 +1,122 @@
+C:\Users\andry\source\repos\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.exe.config
+C:\Users\andry\source\repos\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.exe
+C:\Users\andry\source\repos\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.pdb
+C:\Users\andry\source\repos\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.xml
+C:\Users\andry\source\repos\Proyecto_QQSM\bin\Debug\Guna.UI2.dll
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.AssemblyReference.cache
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.Resources.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.GenerateResource.cache
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.CoreCompileInputs.cache
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.CopyComplete
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.exe
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.xml
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.pdb
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_CATEGORIA.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_PREGUNTA.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_OPCIONES.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_JUGAR.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_JUGAR_ALUMNO.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.exe.config
+C:\Users\Usuario\Downloads\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.exe
+C:\Users\Usuario\Downloads\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.pdb
+C:\Users\Usuario\Downloads\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.xml
+C:\Users\Usuario\Downloads\Proyecto_QQSM\bin\Debug\Guna.UI2.dll
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_MODERADOR.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_JUGAR_ALUMNO.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_JUGAR.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_OPCIONES.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_COMODINES.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_RETOS.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_PREGUNTA.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_CATEGORIA.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_LOGIN.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.Resources.resources
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.CopyComplete
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.exe
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.xml
+C:\Users\Usuario\Downloads\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.pdb
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.exe.config
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.exe
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.pdb
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.xml
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\bin\Debug\Guna.UI2.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.AssemblyReference.cache
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_SELECCIONA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_TEMATICA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_JUGAR_ALUMNO.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_JUGAR.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_OPCIONES.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_PREGUNTA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_CATEGORIA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_REGISTRO.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_MOD.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.Resources.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.GenerateResource.cache
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.CoreCompileInputs.cache
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.CopyComplete
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.exe
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.xml
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.pdb
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_SELECCIONA.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_TEMATICA.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_REGISTRO.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_MOD.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\bin\Debug\Interop.WMPLib.dll
+C:\Users\andry\source\repos\Proyecto_QQSM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Interop.WMPLib.dll
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.ResolveComReference.cache
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_COMODIN_LLAMADA.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\bin\Debug\VIDEOS\Llamada.mp4
+C:\Users\andry\source\repos\Proyecto_QQSM\bin\Debug\VIDEOS\Publico.mp4
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_COMODIN_PUBLICO.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.ResolveComReference.cache
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_BUSQUEDA_REPORTES.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_COMODIN_LLAMADA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_COMODIN_PUBLICO.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_SELECCIONA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_TEMATICA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_JUGAR_ALUMNO.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_JUGAR.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_OPCIONES.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_PREGUNTA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE_CATEGORIA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_DOCENTE.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_REGISTRO.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_MOD.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.Resources.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.GenerateResource.cache
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.CoreCompileInputs.cache
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\bin\Debug\VIDEOS\Llamada.mp4
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\bin\Debug\VIDEOS\Publico.mp4
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.exe.config
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.exe
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.pdb
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\bin\Debug\Proyecto_QQSM.xml
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\bin\Debug\Guna.UI2.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.CopyComplete
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.exe
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.xml
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.pdb
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Programación IV\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.AssemblyReference.cache
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\bin\Debug\VIDEOS\Llamada.mp4
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\bin\Debug\VIDEOS\Publico.mp4
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.vbproj.ResolveComReference.cache
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_BUSQUEDA_REPORTES.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_COMODIN_LLAMADA.resources
+C:\Users\Gena\Documents\Universidad\Cuatrimestre #5\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_COMODIN_PUBLICO.resources
+C:\Users\andry\source\repos\Proyecto_QQSM\obj\Debug\Proyecto_QQSM.FRM_BUSQUEDA_REPORTES.resources

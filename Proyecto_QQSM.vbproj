@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8FFE9E7A-0BF5-441D-AC66-E1AC40F2C218}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proyecto_QQSM.My.MyApplication</StartupObject>
+    <RootNamespace>Proyecto_QQSM</RootNamespace>
+    <AssemblyName>Proyecto_QQSM</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proyecto_QQSM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proyecto_QQSM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.4\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CONEXIONES.vb" />
+    <Compile Include="ENVIO_CORREO.vb" />
+    <Compile Include="FRM_BUSQUEDA_REPORTES.Designer.vb">
+      <DependentUpon>FRM_BUSQUEDA_REPORTES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_BUSQUEDA_REPORTES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_COMODIN_LLAMADA.Designer.vb">
+      <DependentUpon>FRM_COMODIN_LLAMADA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_COMODIN_LLAMADA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_COMODIN_PUBLICO.Designer.vb">
+      <DependentUpon>FRM_COMODIN_PUBLICO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_COMODIN_PUBLICO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_SELECCIONA.Designer.vb">
+      <DependentUpon>FRM_DOCENTE_SELECCIONA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_SELECCIONA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_TEMATICA.Designer.vb">
+      <DependentUpon>FRM_DOCENTE_TEMATICA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_TEMATICA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_JUGAR_ALUMNO.Designer.vb">
+      <DependentUpon>FRM_JUGAR_ALUMNO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_JUGAR_ALUMNO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_JUGAR.Designer.vb">
+      <DependentUpon>FRM_JUGAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_JUGAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_OPCIONES.Designer.vb">
+      <DependentUpon>FRM_DOCENTE_OPCIONES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_OPCIONES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_PREGUNTA.Designer.vb">
+      <DependentUpon>FRM_DOCENTE_PREGUNTA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_PREGUNTA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_CATEGORIA.Designer.vb">
+      <DependentUpon>FRM_DOCENTE_CATEGORIA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DOCENTE_CATEGORIA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DOCENTE.Designer.vb">
+      <DependentUpon>FRM_DOCENTE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DOCENTE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_REGISTRO.Designer.vb">
+      <DependentUpon>FRM_REGISTRO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_REGISTRO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_MOD.Designer.vb">
+      <DependentUpon>FRM_MOD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_MOD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="REPORTES.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FRM_BUSQUEDA_REPORTES.resx">
+      <DependentUpon>FRM_BUSQUEDA_REPORTES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_COMODIN_LLAMADA.resx">
+      <DependentUpon>FRM_COMODIN_LLAMADA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_COMODIN_PUBLICO.resx">
+      <DependentUpon>FRM_COMODIN_PUBLICO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DOCENTE_SELECCIONA.resx">
+      <DependentUpon>FRM_DOCENTE_SELECCIONA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DOCENTE_TEMATICA.resx">
+      <DependentUpon>FRM_DOCENTE_TEMATICA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_JUGAR_ALUMNO.resx">
+      <DependentUpon>FRM_JUGAR_ALUMNO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_JUGAR.resx">
+      <DependentUpon>FRM_JUGAR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DOCENTE_OPCIONES.resx">
+      <DependentUpon>FRM_DOCENTE_OPCIONES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DOCENTE_PREGUNTA.resx">
+      <DependentUpon>FRM_DOCENTE_PREGUNTA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DOCENTE_CATEGORIA.resx">
+      <DependentUpon>FRM_DOCENTE_CATEGORIA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DOCENTE.resx">
+      <DependentUpon>FRM_DOCENTE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_REGISTRO.resx">
+      <DependentUpon>FRM_REGISTRO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_MOD.resx">
+      <DependentUpon>FRM_MOD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="VIDEOS\Llamada.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="VIDEOS\Publico.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
